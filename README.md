@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a Ph.D. Student at the University of Wisconsin - Madison. I work on the IceCube Neutrino Observatory on multimessenger physics. In my free time I enjoy rock climbing, hanging out with friends, and building projects with Arduino. 
 <!--
 **astrophysics-png/astrophysics-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
